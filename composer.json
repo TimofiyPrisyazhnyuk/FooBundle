@@ -18,5 +18,6 @@
     "psr-4": {
       "Timofiy\\FooBundle\\": ""
     }
-  }
+  },
+  "minimum-stability": "stable"
 }
