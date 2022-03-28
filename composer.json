@@ -1,18 +1,22 @@
 {
   "name": "timofiy/foo-bundle",
-  "description": "FooBundle",
+  "description": "FooBundle - for demonstration.",
   "type": "symfony-bundle",
   "homepage": "https://github.com/TimofiyPrisyazhnyuk/FooBundle",
+  "license": "MIT",
   "authors": [
     {
       "name": "Timofiy Prisyazhnyuk",
       "email": "timofiyprisyazhnyuk@gmail.com"
     }
   ],
+  "require": {
+    "php": ">=8.0",
+    "mvc-php/framework": "master"
+  },
   "autoload": {
     "psr-4": {
       "Timofiy\\FooBundle\\": ""
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
