@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Bundle\FooBundle;
+namespace Timofiy\FooBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

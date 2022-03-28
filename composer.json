@@ -1,0 +1,16 @@
+{
+  "name": "timofiy/foo-bundle",
+  "type": "symfony-bundle",
+  "homepage": "https://github.com/TimofiyPrisyazhnyuk/FooBundle",
+  "authors": [
+    {
+      "name": "Timofiy Prisyazhnyuk",
+      "email": "timofiyprisyazhnyuk@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Timofiy\\FooBundle\\": ""
+    }
+  }
+}

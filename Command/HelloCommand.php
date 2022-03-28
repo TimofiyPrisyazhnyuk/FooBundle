@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Bundle\FooBundle\Command;
+namespace Timofiy\FooBundle\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
