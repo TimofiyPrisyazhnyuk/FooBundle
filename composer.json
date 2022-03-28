@@ -1,5 +1,5 @@
 {
-  "name": "timofiy/foo-bundle",
+  "name": "TimofiyPrisyazhnyuk/foo-bundle",
   "description": "FooBundle - for demonstration.",
   "type": "symfony-bundle",
   "homepage": "https://github.com/TimofiyPrisyazhnyuk/FooBundle",
@@ -12,12 +12,14 @@
   ],
   "require": {
     "php": ">=8.0",
-    "mvc-php/framework": "master"
+    "symfony/framework-bundle": "5.4.*",
+    "symfony/console": "5.4.*"
   },
   "autoload": {
     "psr-4": {
       "Timofiy\\FooBundle\\": ""
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
