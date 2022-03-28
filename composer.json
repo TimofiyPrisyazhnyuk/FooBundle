@@ -1,5 +1,6 @@
 {
   "name": "timofiy/foo-bundle",
+  "description": "FooBundle",
   "type": "symfony-bundle",
   "homepage": "https://github.com/TimofiyPrisyazhnyuk/FooBundle",
   "authors": [
@@ -12,5 +13,6 @@
     "psr-4": {
       "Timofiy\\FooBundle\\": ""
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
