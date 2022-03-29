@@ -1,5 +1,5 @@
 {
-  "name": "timofiy/foo-bundle",
+  "name": "timofiyprisyazhnyuk/foo-bundle",
   "description": "FooBundle - for demonstration.",
   "type": "symfony-bundle",
   "homepage": "https://github.com/TimofiyPrisyazhnyuk/FooBundle",
@@ -18,7 +18,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/TimofiyPrisyazhnyuk/foo-bundle.git"
+      "url": "https://github.com/timofiyprisyazhnyuk/foo-bundle.git"
     }
   ],
   "autoload": {
