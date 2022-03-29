@@ -1,0 +1,6 @@
+services:
+
+  foobundle.command.hello:
+    class: Timofiy\FooBundle\Command\HelloCommand
+    tags:
+      - { name: console.command }
